@@ -1,6 +1,7 @@
 [dotbot_repo]: https://github.com/anishathalye/dotbot
 [dotbot_ifplatform]: https://github.com/ssbanerje/dotbot-ifplatform
-[self_repo]: https://github.com/wonderbeyond/dotbot-if.git
+[forked_repo]: https://github.com/wonderbeyond/dotbot-if.git
+[self_repo]: https://github.com/zoispag/dotbot-if.git
 
 ## Dotbot `if` Plugin
 
@@ -12,7 +13,7 @@ This plugin requires [Dotbot][dotbot_repo] to be installed.
 
 ## Installation
 
-1. Run `git submodule add https://github.com/wonderbeyond/dotbot-if.git`
+1. Run `git submodule add https://github.com/zoispag/dotbot-if.git`
 2. Run `git submodule update --init --recursive`
 3. Pass in the CLI argument `-p dotbot-if/if.py` when calling the `dotbot` executable.
 
